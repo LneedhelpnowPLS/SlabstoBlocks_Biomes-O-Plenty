@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "group": "biomesoplenty:empyreal_planks", "pattern": ["#", "#"], "key": {"#": {"item": "biomesoplenty:empyreal_slab"}}, "result": {"item": "biomesoplenty:empyreal_planks"}}
